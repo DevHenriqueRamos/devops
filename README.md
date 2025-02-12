@@ -1,0 +1,2 @@
+## Aprendizado Curso DevOps
+Este repositório contém exemplos dos conhecimentos adquiridos durante o curso de DevOps da Alura. Com esse curso, aprendi os fundamentos do DevOps e sua importância, além de conceitos como automação de infraestrutura, fluxo de trabalho e escalabilidade de aplicações por meio da elasticidade de contêineres. Também desenvolvi habilidades para coletar e monitorar métricas do sistema e aprofundei meu conhecimento em ferramentas como Git, Docker e Linux CLI.
